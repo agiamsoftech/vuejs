@@ -14,7 +14,7 @@
   createApp({
     data() {
       return {
-        message: 'Hello Vue!'
+        message: 'Hello My first Vue!'
       }
     }
   }).mount('#app')
